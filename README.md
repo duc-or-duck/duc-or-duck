@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @duc-or-duck
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning JAVA, CSS, HTML
-- 💞️ I’m looking to collaborate on ...
+- 💞️ My gf name Quyen. I love her <3 
 - 📫 How to reach me ...
 
 <!---
